@@ -6,6 +6,7 @@
 
 - [📖 About the Project](#about-project)
   - [🛠 Built With](#built-with)
+    - [Tech Stacks](#key-features)
     - [Key Features](#key-features)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
@@ -13,6 +14,7 @@
   - [Install](#install)
   - [Usage](#Usage)
 - [👥 Authors](#authors)
+- [🔭 Future Features ](#-future-features-)
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
@@ -25,7 +27,13 @@
 > Enumerable is a Ruby module that provides a set of methods that allow objects to be iterated and processed in various ways, such as sorting, finding, and grouping their elements.
 
 ## 🛠 Built With <a name="built-with"></a>
-Ruby
+### Tech Stack <a name="tech-stack"></a>
+<details>
+<summary>Backend</summary>
+  <ul>
+    <li><a href="https://www.ruby-lang.org/en/documentation/">Ruby</a></li>
+  </ul>
+</details>
 
 <!-- Features -->
 
@@ -88,6 +96,9 @@ To run the project, execute the following command:
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+## 🔭 Future Features <a name="future-features"></a>
+
+- [ ] **Nothing for the moment**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
